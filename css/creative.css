@@ -479,3 +479,22 @@ body {
     webkit-tap-highlight-color: #222;
 }
 
+/* unvisited link */
+a:link {
+    color: black;
+}
+
+/* visited link */
+a:visited {
+    color: black;
+}
+
+/* mouse over link */
+a:hover {
+    color: #900;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+}
